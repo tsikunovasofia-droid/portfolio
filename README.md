@@ -1,7 +1,7 @@
 # Портфолио аналитических проектов — Софья Цикунова
 
 Стажёр — аналитик данных / продуктовый аналитик · Москва
-📫 [tsikunova.sofia@gmail.com](mailto:tsikunova.sofia@gmail.com) · Telegram [@Sofiaaaats](https://t.me/Sofiaaaats) · [Профиль и резюме](https://github.com/tsikunovasofia-droid)
+[tsikunova.sofia@gmail.com](mailto:tsikunova.sofia@gmail.com) · Telegram [@Sofiaaaats](https://t.me/Sofiaaaats) · [Профиль и резюме](https://github.com/tsikunovasofia-droid)
 
 Проекты выполнены в командах на программе «Аналитик данных» Changellenge Education и на кейс-чемпионате Changellenge Cup Russia 2026. Каждый проект описан по схеме **задача → данные → мой вклад → результат**.
 
